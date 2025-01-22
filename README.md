@@ -12,9 +12,12 @@
     </div>
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> 
-        <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-    </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <br>
+    <a href="https://sites.google.com/view/nsseclab/%ED%99%88" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Google%20Site-Visit-blue?style=for-the-badge" alt="🔗 Google Site">
+    </a>
+    <span style="font-size: 16px; color: #0078D7; margin-left: 10px;">Visit Google Site!</span>
 </div>
+
+
