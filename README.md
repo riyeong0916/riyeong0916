@@ -18,13 +18,3 @@
         <img src="https://img.shields.io/badge/Google%20Site-blue?style=for-the-badge" alt="🔗 Google Site">
     </a>
 </div>
-
-
-## 🛠️ mini-project
-
-| 프로젝트 이름       | 설명                           | Tech              | Link                                |
-|--------------------|------------------------------|----------------------|-----------------------------------|
-| **프로젝트 1**     | 이 프로젝트는 XYZ를 해결합니다. | Python, Flask       | [GitHub](https://github.com/your-repo) |
-| **프로젝트 2**     | 데이터 분석 및 시각화 프로젝트 | Python, Pandas, Matplotlib | [GitHub](https://github.com/your-repo) |
-| **프로젝트 3**     | 웹 애플리케이션 개발 프로젝트 | React, Node.js      | [GitHub](https://github.com/your-repo) |
-| **프로젝트 4**     | 머신러닝 모델 구현            | Python, TensorFlow  | [GitHub](https://github.com/your-repo) |
