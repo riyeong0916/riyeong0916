@@ -2,18 +2,33 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=fcfcfc&height=120&text=Ri-yeong's%20GitHub&animation=fadeIn&fontColor=c381ca&fontSize=60" />
 </div>
 
-## 👋 안녕하세요!  
+## 👋 안녕하세요!
 - 저는 융합보안공학과를 전공하고, 클라우드 네이티브 환경에서의 컨테이너 보안 취약점 탐지를 연구했습니다. 
 - 현재는 **클라우드 보안 & DevOps 엔지니어**로서 **클라우드 인프라의 설계 및 구축, 운영 자동화, 보안 모니터링**에 관심을 가지고 있습니다.
 - GitHub 페이지는 제가 학습한 내용을 정리하고 공유하기 위해 작성되었습니다. 클라우드, 보안, DevOps 관련 기술을 공부하고 기록하고 있습니다. 더 나은 인프라 운영과 보안 강화를 위한 다양한 기술을 탐구하고 있습니다! 🚀 
 
-## 🔹 Areas of Interest   
+## ☁  Areas of Interest 🔒
 - 클라우드 인프라 설계 및 구축  
 - 클라우드 보안 (AWS CloudTrail, IAM, AWS Config 등)  
 - 모니터링 및 Observability (Prometheus, Grafana, ELK 등)  
 - Jenkins 및 GitOps를 활용한 CI/CD 파이프라인 구축
 
-  
+## 💻 Skill Stack
+<table>
+  <tr>
+    <td align="center" width="120px"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60px"/><br>AWS</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px"/><br>Azure</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="60px"/><br>Elasticsearch</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px"/><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60px"/><br>Kubernetes</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px"/><br>Docker</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60px"/><br>Jenkins</td>
+    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px"/><br>MySQL</td>
+  </tr>
+</table>
+
 
 ## 🛠️ Projects 
 - 클라우드 환경에서의 사고조사 절차 및 분석방안 연구 (April 01, 2023 ~ October 31, 2023 )
