@@ -53,11 +53,13 @@
 - 정보처리기사
 - AWS Certified Solutions Architect - Associate
 - 리눅스마스터 1급
+- SQLD
 - 네트워크 관리사 2급
 - 컴퓨터활용능력 1급
 
 ### 📖 Journal 
-- Ri-Yeong Kim and Seongmin Kim. (2023). “Reinforcement Learning-Based Resource exhaustion attack detection and response in Kubernetes”. Journal of Information and Security, 23(5), 81-89.
+- [KCI] Ri-Yeong Kim and Seongmin Kim. (2023). “Reinforcement Learning-Based Resource exhaustion attack detection and response in Kubernetes”. Journal of Information and Security, 23(5), 81-89.
+- [SCI] Kim, R.; Ryu, J.; Kim, S.; Lee, S.; Kim, S. Detecting Cryptojacking Containers Using eBPF-Based Security Runtime and Machine Learning. Electronics 2025, 14, 1208. https://doi.org/10.3390/electronics14061208
 
 ### 🎤 Conference
 - **Ri-Yeong Kim**, Seongmin Kim, “Reinforcement Learning-Based Dynamic Resource Management in Kubernetes,” Korea Convergence Security Association (KCSA) Conference, June. 2023.
