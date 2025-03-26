@@ -16,18 +16,35 @@
 ## 💻 Skill Stack
 <table>
   <tr>
-    <td align="center" width="120px"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60px"/><br>AWS</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px"/><br>Azure</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="60px"/><br>Elasticsearch</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px"/><br>Linux</td>
+    <td align="center" width="120px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60px"/><br>AWS
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px"/><br>Azure
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60px"/><br>Prometheus
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px"/><br>Linux
+    </td>
   </tr>
   <tr>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60px"/><br>Kubernetes</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px"/><br>Docker</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60px"/><br>Jenkins</td>
-    <td align="center" width="120px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px"/><br>MySQL</td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60px"/><br>Kubernetes
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px"/><br>Docker
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60px"/><br>Jenkins
+    </td>
+    <td align="center" width="120px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px"/><br>MySQL
+    </td>
   </tr>
 </table>
+
 
 
 ## 🛠️ Projects 
